@@ -1,0 +1,10 @@
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EFGettingStarted.exe.config
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EFGettingStarted.exe
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EFGettingStarted.pdb
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EntityFramework.dll
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EntityFramework.SqlServer.dll
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EntityFramework.xml
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\bin\Debug\EntityFramework.SqlServer.xml
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\obj\Debug\EFGettingStarted.csprojResolveAssemblyReference.cache
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\obj\Debug\EFGettingStarted.exe
+D:\TekTutorialsHub\EntityFramework\CodeFirstExample\EFGettingStarted\EFGettingStarted\obj\Debug\EFGettingStarted.pdb
